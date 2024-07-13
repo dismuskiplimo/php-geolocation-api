@@ -1,4 +1,4 @@
-# php-location-api
+# GeoLocation API consumed using PHP Language
 Function to determine the user location using IP address via 'https://ip-api.com/' API using PHP Language
 
 # How To Run
