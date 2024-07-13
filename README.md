@@ -1,7 +1,7 @@
 # GeoLocation API consumed using PHP Language
 Function to determine the user location using IP address via 'https://ip-api.com/' API using PHP Language.
 
-!['./screenshot.png'](Screenshot)
+![Screenshot](./screenshot.png)
 
 # How To Run
 1. Clone this repo to you compute and copy it to the www/htdocs diectory
@@ -10,4 +10,4 @@ Function to determine the user location using IP address via 'https://ip-api.com
 4. Enjoy, Star, Like :-D
 
 # Credits
-1. [https://ip-api.com/](https://ip-api.com/) for providing the Free GeoLocation API. Read the official docs [https://ip-api.com/docs/api:json](Here).
+1. [https://ip-api.com/](https://ip-api.com/) for providing the Free GeoLocation API. Read the official docs [Here](https://ip-api.com/docs/api:json).
